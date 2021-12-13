@@ -1,0 +1,2 @@
+"use strict";var checkbox=document.getElementById("checkbox");checkbox.addEventListener("change",(function(){document.body.classList.toggle("dark");document.getElementsByClassName("text--big")}));
+//# sourceMappingURL=script.js.map

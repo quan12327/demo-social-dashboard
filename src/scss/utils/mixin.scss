@@ -1,0 +1,5 @@
+@use '../globals' as *;
+
+@mixin texttheme($color:var(--text-color)) {
+    color: $color;
+}
